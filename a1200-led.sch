@@ -116,18 +116,18 @@
 <library name="codm">
 <packages>
 <package name="A1200-LED">
-<wire x1="0" y1="0" x2="15.4" y2="0" width="0.127" layer="21"/>
-<wire x1="15.4" y1="0" x2="15.4" y2="4.1" width="0.127" layer="21"/>
-<wire x1="15.4" y1="4.1" x2="0" y2="4.1" width="0.127" layer="21"/>
+<wire x1="0" y1="0" x2="14.8" y2="0" width="0.127" layer="21"/>
+<wire x1="14.8" y1="0" x2="14.8" y2="4.1" width="0.127" layer="21"/>
+<wire x1="14.8" y1="4.1" x2="0" y2="4.1" width="0.127" layer="21"/>
 <wire x1="0" y1="4.1" x2="0" y2="0" width="0.127" layer="21"/>
-<wire x1="0.327" y1="0.327" x2="15.073" y2="0.327" width="0.127" layer="21"/>
-<wire x1="15.073" y1="0.327" x2="15.073" y2="1.027" width="0.127" layer="21"/>
-<wire x1="15.073" y1="1.027" x2="0.327" y2="1.027" width="0.127" layer="21"/>
+<wire x1="0.327" y1="0.327" x2="14.5" y2="0.327" width="0.127" layer="21"/>
+<wire x1="14.5" y1="0.327" x2="14.5" y2="1.027" width="0.127" layer="21"/>
+<wire x1="14.5" y1="1.027" x2="0.327" y2="1.027" width="0.127" layer="21"/>
 <wire x1="0.327" y1="1.027" x2="0.327" y2="0.327" width="0.127" layer="21"/>
-<pad name="LED-IN1" x="2.2" y="2" drill="0.85" shape="octagon"/>
-<pad name="LED-OUT1" x="5.2" y="2" drill="0.85" shape="octagon"/>
-<pad name="LED-IN2" x="10.2" y="2" drill="0.85" shape="octagon"/>
-<pad name="LED-OU2" x="13.2" y="2" drill="0.85" shape="octagon"/>
+<pad name="LED-IN1" x="2.25" y="2" drill="0.85" shape="octagon"/>
+<pad name="LED-OUT1" x="4.5" y="2" drill="0.85" shape="octagon"/>
+<pad name="LED-IN2" x="10.3" y="2" drill="0.85" shape="octagon"/>
+<pad name="LED-OU2" x="12.55" y="2" drill="0.85" shape="octagon"/>
 </package>
 </packages>
 <symbols>
