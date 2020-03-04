@@ -10,5 +10,5 @@ If you want something more fancy or current, please check BiFrost oder other LED
 ![PCB Top](a1200-led-top.png)
 
 ## License
-CC-BY-NC, 2019 Patrik Mayer
+CC-BY-NC-SA, 2019 Patrik Mayer
 
